@@ -1,0 +1,7 @@
+1.Start the Jshell:
+    .\jshell.exe
+2.Exit the Jshell:
+    /exit
+
+
+Square every number in the list. 
